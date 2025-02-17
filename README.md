@@ -74,8 +74,8 @@ The script will start tracking the target based on the defined HSV color range.
 ---
 
 ## 🛠 **Customization | 自定义设置**
-**Modify the HSV range in `backup.py` to track different colors.**  
-在 `backup.py` 文件中修改 HSV 颜色范围，以跟踪不同的颜色目标：
+**Modify the HSV range in `ColorTrackingServo.py` to track different colors.**  
+在 `ColorTrackingServo.py` 文件中修改 HSV 颜色范围，以跟踪不同的颜色目标：
 ```python
 lower_hsv = np.array([0, 100, 100], dtype=np.uint8)  # Adjust for target color
 upper_hsv = np.array([10, 255, 255], dtype=np.uint8)
