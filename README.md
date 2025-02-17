@@ -53,7 +53,7 @@ pip install -r requirements.txt
 
 ### 3️⃣ **Run the script | 运行程序**
 ```bash
-python backup.py
+python ColorTrackingServo.py
 ```
 The script will start tracking the target based on the defined HSV color range.  
 **该程序会根据设定的 HSV 颜色范围开始追踪目标。**
