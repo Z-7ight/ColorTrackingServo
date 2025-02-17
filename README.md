@@ -89,6 +89,6 @@ alpha = 0.2  # Exponential Moving Average smoothing factor
 
 ---
 
-## 🏆 **License | 许可协议**
-This project is licensed under the MIT License.  
-本项目采用 MIT 许可证。
+## 🏆 License | 许可协议
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.  
+本项目采用 MIT 许可证，详情请参阅 [LICENSE](LICENSE) 文件。
