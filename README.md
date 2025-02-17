@@ -84,7 +84,7 @@ upper_hsv = np.array([10, 255, 255], dtype=np.uint8)
 **Adjust the servo motion smoothing parameters to reduce jitter.**  
 调整舵机平滑参数以减少抖动：
 ```python
-alpha = 0.2  # Exponential Moving Average smoothing factor
+alpha = 0.25  # Exponential Moving Average smoothing factor
 ```
 
 ---
